@@ -1,6 +1,6 @@
 ## Guacamole Client Image
 
-[![](https://images.microbadger.com/badges/image/khirin/guacamole-client.svg)](https://microbadger.com/images/khirin/mariadb "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/khirin/guacamole-client.svg)](https://microbadger.com/images/khirin/guacamole-client "Get your own image badge on microbadger.com")
 
 ### Description
 This is my minimal customized Guacamole Client image based on Alpine (with [my alpine image](https://hub.docker.com/r/khirin/alpine/)).
