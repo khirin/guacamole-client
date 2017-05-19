@@ -1,0 +1,7 @@
+# conf directory
+conf/
+# web directory
+web/
+# build scripts
+create_container.sh
+build_image.sh
